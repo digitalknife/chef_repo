@@ -1,0 +1,7 @@
+I, [2018-04-15T20:21:39.947065 #3437]  INFO -- default-ubuntu-1604: -----> Destroying <default-ubuntu-1604>...
+I, [2018-04-15T20:21:41.215671 #3437]  INFO -- default-ubuntu-1604: ==> default: This machine used to live in /home/finja/dev_chef_repo/cookbooks/JR_BaselineConfig/.kitchen/kitchen-vagrant/default-ubuntu-1604 but it's now at /home/finja/dev_chef_repo/cookbook/JR_BaselineConfig/.kitchen/kitchen-vagrant/default-ubuntu-1604.
+I, [2018-04-15T20:21:41.215860 #3437]  INFO -- default-ubuntu-1604: ==> default: Depending on your current provider you may need to change the name of
+I, [2018-04-15T20:21:41.215920 #3437]  INFO -- default-ubuntu-1604: ==> default: the machine to run it as a different machine.
+I, [2018-04-15T20:21:43.224291 #3437]  INFO -- default-ubuntu-1604: ==> default: Destroying VM and associated drives...
+I, [2018-04-15T20:21:43.607827 #3437]  INFO -- default-ubuntu-1604: Vagrant instance <default-ubuntu-1604> destroyed.
+I, [2018-04-15T20:21:43.609033 #3437]  INFO -- default-ubuntu-1604: Finished destroying <default-ubuntu-1604> (0m3.66s).
